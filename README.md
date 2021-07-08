@@ -5,4 +5,4 @@
 3. attach the first arm to the waist 
 4. link the second arm to the first one 
 5. join the grabber to the second arm 
-6 the initial position of the arm should be vertical 
+6. the initial position of the arm should be vertical 
